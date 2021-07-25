@@ -15,7 +15,15 @@ The Book Search Engine allows users to find quick synopsis to books and save one
 For a local install, clone the repository and run `npm i` to install dependencies. `npm develop` will start a local server.
 
 ## Usage
+The homepage will give you an option to search for a book. In order to save a book, you must be logged in as a user.
 
+![Screenshot](assets/homepage.png)
+
+![Screenshot](assets/login.png)
+
+![Screenshot](assets/searchbooks.png)
+
+![Screenshot](assets/savedbooks.png)
 
 ## Contributions
 Made by DJ Rhoten
